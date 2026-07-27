@@ -1,0 +1,38 @@
+[
+  {
+    "id": "_meta",
+    "author": "HER01K",
+    "name": "Mansion of the Mad Dissenter",
+    "bootlegger": [
+      "All Heretic Jinxes are disabled",
+      "The Lil' Monsta must be babysat by a living player"
+    ]
+  },
+  "noble",
+  "investigator",
+  "librarian",
+  "highpriestess",
+  "balloonist",
+  "general",
+  "oracle",
+  "monk",
+  "savant",
+  "courtier",
+  "artist",
+  "cannibal",
+  "amnesiac",
+  "butler",
+  "recluse",
+  "saint",
+  "snitch",
+  "heretic",
+  "godfather",
+  "harpy",
+  "cerenovus",
+  "widow",
+  "wraith",
+  "organgrinder",
+  "lilmonsta",
+  "bootlegger",
+  "stormcatcher"
+]

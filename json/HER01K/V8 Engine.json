@@ -1,0 +1,37 @@
+[
+  {
+    "id": "_meta",
+    "author": "HER01K",
+    "name": "V8 Engine",
+    "bootlegger": [
+      "If the Poppy Grower becomes drunk, poisoned, or leaves play, Minions & Demons learn who each other are that night.",
+      "The Poppy Grower ability is never affected by the Vortox."
+    ]
+  },
+  "investigator",
+  "shugenja",
+  "pixie",
+  "general",
+  "villageidiot",
+  "snakecharmer",
+  "monk",
+  "savant",
+  "courtier",
+  "cannibal",
+  "sage",
+  "mayor",
+  "poppygrower",
+  "drunk",
+  "barber",
+  "hatter",
+  "mutant",
+  "cerenovus",
+  "xaan",
+  "goblin",
+  "scarletwoman",
+  "vizier",
+  "lilmonsta",
+  "imp",
+  "vortox",
+  "bootlegger"
+]
