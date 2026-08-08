@@ -1,0 +1,36 @@
+[
+  {
+    "id": "_meta",
+    "author": "HER01K",
+    "name": "Criminal Lineup",
+    "bootlegger": [
+      "The Recluse and Spy may misregister during setup",
+      "The Engineer may not select the Marionette"
+    ]
+  },
+  "knight",
+  "pixie",
+  "highpriestess",
+  "general",
+  "mathematician",
+  "king",
+  "engineer",
+  "juggler",
+  "cannibal",
+  "farmer",
+  "choirboy",
+  "mayor",
+  "virgin",
+  "drunk",
+  "recluse",
+  "saint",
+  "hatter",
+  "poisoner",
+  "spy",
+  "wizard",
+  "marionette",
+  "scarletwoman",
+  "boffin",
+  "lordoftyphon",
+  "bootlegger"
+]
