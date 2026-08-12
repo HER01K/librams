@@ -1,0 +1,32 @@
+[
+  {
+    "id": "_meta",
+    "author": "HER01K",
+    "name": "Minion Panic",
+    "bootlegger": [
+      "If the Cerenovus makes a player \"mad\" as the Alchemist, they also select a minion ability for them to be \"mad\" they have.",
+      "An Alchemist-Scarlet Woman has no ability, and there is no Scarlet Woman in play"
+    ]
+  },
+  "alchemist",
+  "drunk",
+  "godfather",
+  "poisoner",
+  "spy",
+  "harpy",
+  "witch",
+  "cerenovus",
+  "fearmonger",
+  "pithag",
+  "psychopath",
+  "assassin",
+  "wizard",
+  "widow",
+  "eviltwin",
+  "goblin",
+  "scarletwoman",
+  "organgrinder",
+  "lilmonsta",
+  "pope",
+  "bootlegger"
+]
