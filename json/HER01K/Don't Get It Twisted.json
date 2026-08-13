@@ -1,8 +1,11 @@
 [
   {
     "id": "_meta",
+    "name": "Don't Get It Twisted",
     "author": "HER01K",
-    "name": "Don't Get It Twisted"
+    "bootlegger": [
+      "The Summoner and Alchemist-Summoner keep their ability even if drunk or poisoned."
+    ]
   },
   "clockmaker",
   "shugenja",
@@ -32,5 +35,6 @@
   "bonecollector",
   "apprentice",
   "scapegoat",
+  "bootlegger",
   "stormcatcher"
 ]
